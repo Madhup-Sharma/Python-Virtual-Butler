@@ -98,33 +98,6 @@ run_butler()
 
 Copy and paste this code into your `README.md` file to provide a clear overview of the code structure and its main functionalities. Adjust the content as needed for your specific project.
 
-## 🤝 Contribution
-
-Feel free to contribute to enhance the butler's capabilities or fix any issues. Follow these steps:
-
-1. **Fork the repository.**
-
-2. **Create a new branch:**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Make your changes and commit them:**
-
-   ```bash
-   git commit -m 'Add your feature'
-   ```
-
-4. **Push to the branch:**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-5. **Submit a pull request.**
-
-Let's make this virtual butler even more amazing together! 🌟
 
 ## 🙏 Thank You
 
